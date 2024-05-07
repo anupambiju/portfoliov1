@@ -1,0 +1,16 @@
+.left{
+    background-color: #24285C;
+    color: white;
+    height: 100vh;
+    /* position: fixereed; */
+
+    width: 50%;
+
+    
+}
+.right{
+    width: 50%;
+    background-color: #24285C;
+    color: rgb(177, 177, 177);
+
+}
